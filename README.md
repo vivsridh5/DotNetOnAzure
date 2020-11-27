@@ -15,7 +15,7 @@ Use these resources to engage with developers on .NET and encourage them to skil
 
 ### .NET 5 and C# updates
 
-* Scott Hunter, Director of Program Management for Microsoft’s .NET platform, shares a sneak preview of what’s coming in .NET 5 (and beyond) - [Video](https://myignite.microsoft.com/speaker/9968daf1-3e07-4264-b1aa-cbeecd7101d4)
+* Scott Hunter, Director of Program Management for Microsoft’s .NET platform, shares a sneak preview of what’s coming in .NET 5 (and beyond) - [Video](https://myignite.microsoft.com/speaker/9968daf1-3e07-4264-b1aa-cbeecd7101d4)
 * Get the latest .NET updates, and learn how you can be more productive building apps that run on any platform or device - [Blog](https://devblogs.microsoft.com/dotnet/the-future-of-net-standard/)
 * .NET Framework September 2020 Cumulative Update - [Blog](https://devblogs.microsoft.com/dotnet/net-framework-september-2020-cumulative-update-preview-update/)
 * C# 9.0 on the record - [Blog](https://devblogs.microsoft.com/dotnet/c-9-0-on-the-record/)
@@ -29,11 +29,6 @@ Use these resources to engage with developers on .NET and encourage them to skil
 * How to migrate web apps to Azure App Service - [tutorial](https://azure.microsoft.com/en-us/resources/videos/how-to-migrate-web-apps-to-azure-app-service/)
 * Move Your .NET Web Apps to the Cloud - [Webinar Series](https://info.microsoft.com/ww-ondemand-move-your-.net-web-apps-to-the-cloud.html)
 * Azure Communication Services - [Demo](https://www.youtube.com/watch?v=49oshhgY6UQ&t=2s)
-
-### E-Books
-
-
-
 
 
 
