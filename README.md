@@ -11,7 +11,7 @@ Use these resources to engage with developers on .NET and encourage them to skil
 
 * Azure for .NET developers - [Learn](https://docs.microsoft.com/en-us/dotnet/azure/)
 * Teach yourself .NET with Microsoft Learn - [Modules](https://docs.microsoft.com/en-us/learn/dotnet/)
-* Participate in the .NET Learn Challenge from Dec 1 - 31 <Link_to_be_updated>
+* The Cloud Skills Show: .NET- [Blog](https://dev.to/azure/the-cloud-skills-show-net-31n3)
 
 ### .NET 5 and C# updates
 
